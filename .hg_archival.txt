@@ -1,0 +1,6 @@
+repo: 8ba995b74e18334ab3707f27e9eb8f4e37ba3d29
+node: 74094dc4022c8437eb87a7e25bf6433fb07a7fbb
+branch: default
+latesttag: FIREFOX_NIGHTLY_124_END
+latesttagdistance: 1082
+changessincelatesttag: 1175
